@@ -127,7 +127,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="xd" width="60" height="40" />
+        <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="xd" width="80" height="55" />
     </a>
 </p>
 
