@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Azeen-Shah/Azeen-Shah/master/Azeen.jpg)
+![logo](https://raw.githubusercontent.com/Azeen-Shah/Azeen-Shah/master/Azeen_20240710_152240_0000.png)
 <h1 align="center">Hi 👋, I'm Azeen Shah</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan.</h3>
 
